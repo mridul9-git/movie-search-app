@@ -15,7 +15,7 @@ Discover your next favourite film with this sleek movie discovery app.
 4. Click on any movie for more details (if implemented).
 
 ## Try It Live
-[View on Vercel](https://movie-search-app-two-gules.vercel.app/)
+[Movie Search](https://movie-search-app-two-gules.vercel.app/)
 
 ## Preview
 
